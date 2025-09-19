@@ -8,7 +8,7 @@ ___A simple and effective script for scanning active subdomains___
 * Availability of BASH
 
 ## How to Run
-1. git clone <repo-url> 
+1. git clone [<repo-url> ](https://github.com/ZennardOS/DNS-Scanner)
 2. cd DNS-Scanner
 3. chmod +x DNS.sh
 4. ./DNS.sh
